@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shamsuddeen Hassan Muhammad 
-
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shamsuddeen Hassan Muhammad 
 
 I am a PhD student at the University of Porto and I am generally interested in low-resource African NLP. My research topics include sentiment analysis, hate speech detection, transfer learning, and language modelling.
 
