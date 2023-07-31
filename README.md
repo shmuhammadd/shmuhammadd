@@ -2,7 +2,7 @@
 
 I am a PhD student at the University of Porto and I am generally interested in low-resource African NLP. My research topics include sentiment analysis, hate speech detection, transfer learning, and language modelling.
 
-I am the founder of Arewa Data Science Academy, an initiative that aims to train and mentor young data scientists in Nigeria. I also co-founded HausaNLP, a community that promotes NLP for Hausa languages. You can contact me at  [shamsuddeeen2004@gmail.com](mailto:shamsuddeeen2004@gmail.com)
+I am the founder of [Arewa Data Science Academy](https://arewadatascience.github.io) , an initiative that aims to train and mentor young data scientists in Nigeria. I also co-founded [HausaNLP]((https://hausanlp.github.io)), a community that promotes NLP for Hausa languages. You can contact me at  [shamsuddeeen2004@gmail.com](mailto:shamsuddeeen2004@gmail.com)
 
 <a href="https://www.github.com/shmuhammadd" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/shmuhammadd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/shmuhammadd" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/shmuhammadd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
