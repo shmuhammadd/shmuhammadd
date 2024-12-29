@@ -26,7 +26,7 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 - **AfriEmo**](https://github.com/AfriEmotion/AfriEmotion): Emotion analysis for African languages. 
 - **SemEval Shared Tasks**: Organizer to tasks on African language understanding, such as **[AfriSenti-SemEval](https://afrisenti-semeval.github.io)**, [Semantic Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024), and [Bridging the Gap in Text-Based Emotion Detection](https://github.com/emotion-analysis-project/SemEval2025-Task11).  
    
-
+Find out more about my work on my scholar page: https://scholar.google.com/citations?user=Ne1nt4gAAAAJ&hl=en
 ---
 
 ### 🚀 **How You Can Connect**
