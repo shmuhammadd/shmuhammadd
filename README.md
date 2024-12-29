@@ -29,7 +29,7 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 ---
 
 ###  **How You Can Connect**
-- [Personal Website](https://shmuhammadd.github.io) \| Email: [shamsuddeen2004@gmail.com]   \|  [Twitter](https://twitter.com/shmuhammadd)   \| [LinkedIn](https://www.linkedin.com/in/shmuhammad/)
+- [Personal Website](https://shmuhammadd.github.io) \| Email: [shamsuddeen2004 at gmail.com]   \|  [Twitter](https://twitter.com/shmuhammadd)   \| [LinkedIn](https://www.linkedin.com/in/shmuhammad/)
 -  **Research Portfolio**: Explore my publications, collaborations, and research contributions on [Google Scholar](https://scholar.google.com/citations?user=Ne1nt4gAAAAJ&hl=en)
 - **Collaboration Opportunities**: I am open to collaborative projects and partnerships aligned with my research interests in NLP, AI for low-resource languages, and cultural perspectives in AI.
 
