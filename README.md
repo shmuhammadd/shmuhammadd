@@ -19,26 +19,20 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 ### 💡 **What I Work On**
 - 📝 **Research**: Low-resource NLP, hate speech detection, cultural datasets, and large language models.  
 - 🛠️ **Projects**:  
-  - **AfriBLEnD**: A multilingual socio-cultural dataset for 14 African languages.  
+  - **Bridge**: A multilingual socio-cultural dataset for 14 African languages.  
   - **AfriHate**: A dataset for hate and abusive language classification in African languages.  
-  - **BLEnD**: Benchmarking LLMs on diverse cultural knowledge.  
+  - **AfriSenti**: Benchmarking LLMs on diverse cultural knowledge.
+  - **AfriEmo**: Benchmarking LLMs on diverse cultural knowledge.  
   - **SemEval**: Contributor to a task on African language understanding.  
 - 📖 **Teaching**: Python and R for Data Science, and mentoring students on machine learning and NLP.
 
 ---
 
-### 📈 **Stats**
-- 🌐 **Community**: Founder of the Arewa Data Science group.  
-- 💬 **Collaborations**: Working with Google Research on Adversarial Nebler.  
-- 🏅 **Awards**: Best Paper Award at ACL 2024 Workshop on Cross-Cultural Considerations in NLP.  
-
----
-
 ### 🚀 **How You Can Connect**
 - 🌟 [Personal Website](https://shmuhammadd.github.io)  
-- ✉️ Email: [your-email@example.com]  
-- 🌍 [Twitter](https://twitter.com/your-handle)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- ✉️ Email: [shamsuddeen2004@gmail.com]  
+- 🌍 [Twitter](https://twitter.com/shmuhammadd)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shmuhammad/)  
 
 ---
 
