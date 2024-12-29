@@ -19,11 +19,13 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 ### 💡 **What I Work On**
 - 📝 **Research**: Low-resource NLP, sentiment analysis, hate speech detection, emotion analysis, LLM, and LLM evaluation from the lense of cultures.  
 - 🛠️ **Projects**:  
-  - **Bridge**: A multilingual socio-cultural dataset for 14 African languages.  
-  - **AfriHate**: A dataset for hate and abusive language classification in African languages.  
-  - **AfriSenti**: Benchmarking LLMs on diverse cultural knowledge.
-  - **AfriEmo**: Benchmarking LLMs on diverse cultural knowledge.  
-  - **SemEval**: Contributor to a task on African language understanding.  
+- **Bridge**: Bridging the Gap in Text-Based Emotion Detection. *(Link not found; please provide the URL if available.)*  
+- **AfriHate**: Hate and abusive language classification in African languages. *(Link not found; please provide the URL if available.)*  
+- **[AfriSenti](https://github.com/afrisenti-semeval/afrisent-semeval-2023)**: Sentiment Analysis for African languages.  
+- **NaijaSenti**: Sentiment analysis for Nigerian languages. *(Link not found; please provide the URL if available.)*  
+- **AfriEmo**: Emotion analysis for African languages. *(Link not found; please provide the URL if available.)*  
+- **[SemEval](https://github.com/afrisenti-semeval/afrisent-semeval-2023)**: Organizer to tasks on African language understanding, such as **AfriSenti-SemEval**, SemRel, and Bridging the Gap in Text-Based Emotion Detection.  
+
 - 📖 **Teaching**: Python and R for Data Science, and mentoring students on machine learning and NLP.
 
 ---
