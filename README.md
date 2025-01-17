@@ -19,12 +19,12 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 ###  **What I Work On**
 -  **Research**: Low-resource NLP, sentiment analysis, hate speech detection, emotion analysis, LLM, and LLM evaluation from the lense of cultures.  
 -  **Projects**:  
-  - **[Bridge](https://github.com/emotion-analysis-project/SemEval2025-Task11)**: Bridging the Gap in Text-Based Emotion Detection.   
-  - **[AfriHate](https://github.com/AfriHate/AfriHate)**: Hate and abusive language classification in African languages. 
-  - **[AfriSenti](https://github.com/afrisenti-semeval/afrisent-semeval-2023)**: Sentiment Analysis for African languages.  
-  - **[NaijaSenti](https://github.com/hausanlp/NaijaSenti)**: Sentiment analysis for Nigerian languages. 
-  - **[AfriEmo](https://github.com/AfriEmotion/AfriEmotion)**: Emotion analysis for African languages. 
-  - **SemEval Shared Tasks**: Organizer to tasks on African language understanding, such as **[AfriSenti-SemEval](https://afrisenti-semeval.github.io)**, [Semantic Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024), and [Bridging the Gap in Text-Based Emotion Detection](https://github.com/emotion-analysis-project/SemEval2025-Task11).  
+    - **[Bridge](https://github.com/emotion-analysis-project/SemEval2025-Task11)**: Bridging the Gap in Text-Based Emotion Detection.   
+    - **[AfriHate](https://github.com/AfriHate/AfriHate)**: Hate and abusive language classification in African languages. 
+    - **[AfriSenti](https://github.com/afrisenti-semeval/afrisent-semeval-2023)**: Sentiment Analysis for African languages.  
+    - **[NaijaSenti](https://github.com/hausanlp/NaijaSenti)**: Sentiment analysis for Nigerian languages. 
+    - **[AfriEmo](https://github.com/AfriEmotion/AfriEmotion)**: Emotion analysis for African languages. 
+    - **SemEval Shared Tasks**: Organizer to tasks on African language understanding, such as **[AfriSenti-SemEval](https://afrisenti-semeval.github.io)**, [Semantic Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024), and [Bridging the Gap in Text-Based Emotion Detection](https://github.com/emotion-analysis-project/SemEval2025-Task11).  
    
 ---
 
