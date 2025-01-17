@@ -4,21 +4,21 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
 
 ---
 
-### 🌟 **About Me**
-- 🏫 **Position**: Advanced Research Fellow and Google DeepMind Academic Fellow at **Imperial College London**.  
-- 🎓 **Education**:  
+### **About Me**
+- **Position**: Advanced Research Fellow and Google DeepMind Academic Fellow at **Imperial College London**.  
+- **Education**:  
   - PhD in Computer Science, University of Porto, Portugal.  
   - MS in Computer Science, University of Manchester, UK.  
   - BSc in Computer Science, Bayero University, Kano, Nigeria.  
-- 🌍 **Co-founder**:  
+-  **Co-founder**:  
   - **HausaNLP** - Advancing NLP for the Hausa language.  
   - **Arewa Data Science Academy** - Providing free AI education to underserved students in Nigeria.  
 
 ---
 
-### 💡 **What I Work On**
-- 📝 **Research**: Low-resource NLP, sentiment analysis, hate speech detection, emotion analysis, LLM, and LLM evaluation from the lense of cultures.  
-- 🛠️ **Projects**:  
+###  **What I Work On**
+-  **Research**: Low-resource NLP, sentiment analysis, hate speech detection, emotion analysis, LLM, and LLM evaluation from the lense of cultures.  
+-  **Projects**:  
 - **[Bridge](https://github.com/emotion-analysis-project/SemEval2025-Task11)**: Bridging the Gap in Text-Based Emotion Detection.   
 - **[AfriHate](https://github.com/AfriHate/AfriHate)**: Hate and abusive language classification in African languages. 
 - **[AfriSenti](https://github.com/afrisenti-semeval/afrisent-semeval-2023)**: Sentiment Analysis for African languages.  
