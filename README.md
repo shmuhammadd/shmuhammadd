@@ -11,8 +11,8 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
   - MS in Computer Science, University of Manchester, UK.  
   - BSc in Computer Science, Bayero University, Kano, Nigeria.  
 -  **Co-founder**:  
-     - **HausaNLP** - Advancing NLP for the Hausa language.  
-     - **Arewa Data Science Academy** - Providing free AI education to underserved students in Nigeria.  
+     - **[HausaNLP](https://arewadatascience.github.io)** - Advancing NLP for the Hausa language.  
+     - **[Arewa Data Science Academy](https://hausanlp.org)** - Providing free AI education to underserved students in Nigeria.  
 
 ---
 
