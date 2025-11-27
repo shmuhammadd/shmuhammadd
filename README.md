@@ -26,12 +26,24 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
     - **[AfriEmo](https://github.com/AfriEmotion/AfriEmotion)**: Emotion analysis for African languages. 
     - **SemEval Shared Tasks**: Co-organizer to tasks on African language such as **[AfriSenti-SemEval](https://afrisenti-semeval.github.io)**, [Semantic Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024), and [Bridging the Gap in Text-Based Emotion Detection](https://github.com/emotion-analysis-project/SemEval2025-Task11).
  
--    **Tools**:
-    - Hausa Dictionary: https://kamusunhausa.hausanlp.org/.
-    - Hausa Catalogue: https://catalog.hausanlp.org.
-    - Annotate: https://annotate.hausanlp.org.
-    - SpeechAnnotation: Telegram Bot for speech data collection. 
-   
+ ## HausaNLP Tools
+
+### Hausa Dictionary  
+An online lexicon providing standardized Hausa definitions, examples, and usage.  
+🔗 https://kamusunhausa.hausanlp.org/
+
+###  Hausa Catalogue  
+A centralized repository indexing datasets, benchmarks, and resources for Hausa NLP research.  
+🔗 https://catalog.hausanlp.org
+
+### Annotate  
+A lightweight web-based annotation platform for text classification, translation, and sequence labeling.  
+🔗 https://annotate.hausanlp.org
+
+###  SpeechAnnotation Bot  
+A Telegram-based tool for collecting speech data in low-connectivity environments; optimized for mobile users.  
+🔗 Telegram Bot for Hausa speech data collection
+
 ---
 
 ###  **How You Can Connect**
