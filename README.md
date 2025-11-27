@@ -28,23 +28,18 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
  
  ## HausaNLP Tools
 
-### Hausa Dictionary  
-An online lexicon providing standardized Hausa definitions, examples, and usage.  
-🔗 https://kamusunhausa.hausanlp.org/
+  - Hausa Dictionary : An online lexicon providing standardized Hausa definitions, examples, and usage.  
+  🔗 https://kamusunhausa.hausanlp.org/
+  
+  - Hausa Catalogue : A centralized repository indexing datasets, benchmarks, and resources for Hausa NLP research.  
+  🔗 https://catalog.hausanlp.org
+  
+  - Annotate : A lightweight web-based annotation platform for text classification, translation, and sequence labeling.  
+  🔗 https://annotate.hausanlp.org
+  
+- SpeechAnnotation Bot A Telegram-based tool for collecting speech data in low-connectivity environments; optimized for mobile users.  
+  🔗 Telegram Bot for Hausa speech data collection
 
-###  Hausa Catalogue  
-A centralized repository indexing datasets, benchmarks, and resources for Hausa NLP research.  
-🔗 https://catalog.hausanlp.org
-
-### Annotate  
-A lightweight web-based annotation platform for text classification, translation, and sequence labeling.  
-🔗 https://annotate.hausanlp.org
-
-###  SpeechAnnotation Bot  
-A Telegram-based tool for collecting speech data in low-connectivity environments; optimized for mobile users.  
-🔗 Telegram Bot for Hausa speech data collection
-
----
 
 ###  **How You Can Connect**
 - [Personal Website](https://shmuhammadd.github.io) \| Email: [shamsuddeen2004 at gmail.com]   \|  [Twitter](https://twitter.com/shmuhammadd)   \| [LinkedIn](https://www.linkedin.com/in/shmuhammad/)
