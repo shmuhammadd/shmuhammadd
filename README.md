@@ -27,10 +27,10 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
     - **SemEval Shared Tasks**: Co-organizer to tasks on African language such as **[AfriSenti-SemEval](https://afrisenti-semeval.github.io)**, [Semantic Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024), and [Bridging the Gap in Text-Based Emotion Detection](https://github.com/emotion-analysis-project/SemEval2025-Task11).
  
 -    **Tools**:
-    - Hausa Dictionary: https://kamusunhausa.hausanlp.org/
-    - Hausa Catalogue: https://catalog.hausanlp.org
-    - Annotate: https://annotate.hausanlp.org
-    - SpeechAnnotation: Telegram Bot for speech data collection
+    - Hausa Dictionary: https://kamusunhausa.hausanlp.org/.
+    - Hausa Catalogue: https://catalog.hausanlp.org.
+    - Annotate: https://annotate.hausanlp.org.
+    - SpeechAnnotation: Telegram Bot for speech data collection. 
    
 ---
 
