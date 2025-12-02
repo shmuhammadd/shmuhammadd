@@ -36,6 +36,8 @@ Welcome to my GitHub! 🎉 I'm an **NLP researcher** passionate about advancing 
   
   - Annotate : A lightweight web-based annotation platform for text classification, translation, and sequence labeling.  
   🔗 https://annotate.hausanlp.org
+
+  - NLPQuiz: https://nlpquiz.hausanlp.org/auth/login
   
 - SpeechAnnotation Bot A Telegram-based tool for collecting speech data in low-connectivity environments; optimized for mobile users.  
   🔗 Telegram Bot for Hausa speech data collection
